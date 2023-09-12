@@ -1,0 +1,32 @@
+.abody {
+    background-color: rgba(160, 144, 55, 0.473);
+}
+h1 {
+    text-align: center;
+    color: rgba(148, 81, 18, 0.418);
+    font-family: serif; 
+}
+.list {
+    color: brown;
+    list-style-position: inside;
+    display: inline-block;
+    text-align: left;
+}
+.links {
+    color: rgb(230, 172, 12);
+    text-decoration: solid;   
+}
+.li {
+    text-align: center;
+}
+.img {
+    display: block;
+    margin: auto;
+    margin-top: 35px;
+    border: 10px saddlebrown solid;
+}
+h2 {
+    text-align: center;
+    color: rgb(209, 79, 19);
+    border: 5px rgb(230, 156, 95) solid;
+}
