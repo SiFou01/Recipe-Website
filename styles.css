@@ -4,20 +4,21 @@
 h1 {
     text-align: center;
     color: rgba(148, 81, 18, 0.418);
-    font-family: serif; 
+    font-family: serif;
+    font-size: 2.1em;
 }
 .list {
-    color: brown;
-    list-style-position: inside;
     display: inline-block;
     text-align: left;
 }
-.links {
-    color: rgb(230, 172, 12);
-    text-decoration: solid;   
-}
 .li {
+    margin: 10px;
+    list-style-type: '😃';
+    padding-inline-start: 10px;
+}
+#list-div {
     text-align: center;
+    margin-top: 100px;
 }
 .img {
     display: block;
@@ -29,4 +30,8 @@ h2 {
     text-align: center;
     color: rgb(209, 79, 19);
     border: 5px rgb(230, 156, 95) solid;
+}
+.links {
+    color: rgb(230, 172, 12);
+    text-decoration: solid;   
 }
