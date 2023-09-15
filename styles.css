@@ -27,11 +27,35 @@ h1 {
     border: 10px saddlebrown solid;
 }
 h2 {
-    text-align: center;
     color: rgb(209, 79, 19);
     border: 5px rgb(230, 156, 95) solid;
+    padding-left: 27px;
 }
 .links {
     color: rgb(230, 172, 12);
     text-decoration: solid;   
+}
+p.para {
+    padding-left: 39px;
+    font-size: 17px;
+    width: 80%;
+}
+
+ul.ingred {
+    list-style-type: circle;
+    padding-left: 55px;
+    font-size: 18px;
+    width: 80%;
+}
+
+ol.steps {
+    padding-left: 55px;
+    list-style-type: disclosure-closed;
+    width: 80%;
+}
+ul li {
+    margin-bottom: 5px;
+}
+ol li {
+    margin-bottom: 9px;
 }
